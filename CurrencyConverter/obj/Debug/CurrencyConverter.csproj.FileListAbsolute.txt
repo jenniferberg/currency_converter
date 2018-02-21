@@ -1,0 +1,14 @@
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\App.g.cs
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.cache
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.lref
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\MainWindow.baml
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.g.resources
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Jen\Documents\Sites\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
